@@ -1,0 +1,58 @@
+*{
+    background-color: lightcyan;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    width: 900px;
+}
+body{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.container{
+     margin-right: 170px;
+     width: 80%;
+}
+.Awal{
+    font-size:30px;
+    text-align: center;
+    text-decoration-line: underline;
+    padding: 10px;
+    margin-left: 250px;
+
+}
+.nama{
+    text-align: justify;
+}
+.prg{
+    text-align: justify;
+    margin-bottom: 10px
+}
+.img{
+    max-width: 200px;;
+    border-radius: 15px;
+    float: left;
+    margin-right: 19px;
+}
+
+.list1{
+    font-size: medium;
+    line-height: 23px;
+    margin-left: 195px;
+}
+.list2{
+    font-size: medium;
+    line-height: 23px;
+    margin-left: 195px;
+}
+.list3{
+    font-size: medium;
+    line-height: 23px;
+}
+.judul{
+    font-size: large;
+    margin: 1px;
+}
+.button:hover{
+    background-color: aquamarine;
+}
